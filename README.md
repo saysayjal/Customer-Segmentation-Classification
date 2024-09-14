@@ -4,8 +4,8 @@ We applied multiple algorithms (Logistic Regression, Random Forest, Gradient Boo
 
 
 ## Dataset
-train.csv: The dataset used for training the model.
-test.csv: The dataset used for making predictions. 
+- train.csv: The dataset used for training the model.
+- test.csv: The dataset used for making predictions. 
 
 ## Project Structure
 - train.csv                 # Training data
