@@ -7,10 +7,3 @@ Dataset
 train.csv: The dataset used for training the model.
 test.csv: The dataset used for making predictions. 
 
-.
-├── train.csv                 # Training data
-├── test.csv                  # Test data
-├── classify.ipynb            # Jupyter Notebook for training and model selection
-├── predict.ipynb             # Jupyter Notebook for predicting segmentation on test data
-├── test_predictions.csv      # Test predictions
-
