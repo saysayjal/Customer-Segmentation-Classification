@@ -8,8 +8,8 @@ We applied multiple algorithms (Logistic Regression, Random Forest, Gradient Boo
 - test.csv: The dataset used for making predictions. 
 
 ## Project Structure
-- train.csv                 # Training data
-- test.csv                  # Test data
-- classify.ipynb            # Jupyter Notebook for training and model selection
-- test_predictions.csv      # Test predictions
+- train.csv :                 Training data
+- test.csv  :                 Test data
+- classify.ipynb   :          Jupyter Notebook for training and model selection
+- test_predictions.csv  :     Test predictions
 
